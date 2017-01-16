@@ -2,11 +2,12 @@ body {
 	background-size: cover;
 	background-repeat: no-repeat;
 	color: white;
+	font-family: 'Raleway', sans-serif;
 }
 
 .weatherblock {
-	border: 2px solid white;
 	margin-top: 10%;
 	padding-bottom: 1.5em;
-	background-color: darkgray;
+	background-color: rgba(238, 109, 102, 0.7);
+	border: 5px solid white;
 }
