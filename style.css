@@ -1,4 +1,13 @@
 body {
-	background-color: black;
+	background: lightblue;
+	background-size: cover;
+	background-repeat: no-repeat;
 	color: white;
+}
+
+.weatherblock {
+	border: 2px solid white;
+	margin-top: 10%;
+	padding-bottom: 1em;
+	background-color: darkgray;
 }
